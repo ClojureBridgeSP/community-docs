@@ -1,8 +1,9 @@
 title: ClojureBridge Community Docs
 email: info@clojurebridge.org
 baseurl: /community-docs
-twitter_username: ClojureBridge
-github_username:  ClojureBridge
+twitter_username: ClojureBridgeSP
+github_username:  ClojureBridgeSP
+url: "http://clojurebridgesp.github.io/"
 encoding: UTF-8
 
 gems:
